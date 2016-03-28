@@ -3,8 +3,8 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: Our Study Group
-description: "A study group."
+title: Internet Research Network
+description: "We are an interdisciplinary network of researchers based at the University of Toronto who study how the rise of the Internet is changing society, politics and the economy and vice versa. Our aim is to bring together coders, scientists and researchers from the social sciences to help each other grapple with these issues.."
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
