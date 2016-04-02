@@ -6,14 +6,14 @@ tellMeMore: Tell Me More
 
 activitiesSubheading: 'And you can, too!'
 activities:
-  - title: Skill Sharing
-    description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
+  - title: Creating Dialogue
+    description: 'Talk to researchers from different disciplines to get expert feedback on issues that are relevant to your research, yet outside your specific field of expertise.</p>'
     icon: fa-comment
-  - title: Co-Working
-    description: 'Get together to work on your coding projects, help each other out and share your work.'
+  - title: Collaboration
+    description: 'Get together to work on research projects, help each other out and share your work.'
     icon: fa-laptop
   - title: Community Building
-    description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
+    description: 'Meet researchers sharing your interest in the Internet - and find out what we can do when we work together.'
     icon: fa-group
 
 events: Events
