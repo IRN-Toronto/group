@@ -1,6 +1,6 @@
 ---
 title: Seminar meeting
-text: Monthly meeting of your research group
+text: Join us for our monthly research seminar!
 location: UC248
 link: https://github.com/IRN-Toronto/group/issues/2
 date: 2016-04-06
