@@ -1,6 +1,6 @@
 ---
 title: Seminar meeting
-text: Monthly meeting of your research group with a presentation by Gabriel Menard on Digital Policy Regimes: an institutional analysis of digital policy as social policy
+text: Monthly meeting of your research group
 location: UC248
 link: https://github.com/IRN-Toronto/group/issues/2
 date: 2016-04-06
