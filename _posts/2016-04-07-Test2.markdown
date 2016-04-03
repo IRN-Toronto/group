@@ -1,0 +1,9 @@
+---
+title: Test 2
+text: Hello
+location: UC248
+link: https://github.com/IRN-Toronto/group/issues/3
+date: 2016-04-07
+startTime: '18:00'
+endTime: '19:30'
+---
