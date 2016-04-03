@@ -1,6 +1,7 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Lennart Maschmeyer
+  affiliation: University of Toronto
+  github: lende77
   interests:
-    - Programming
-    - Open Science
+    - International Relations
+    - Science and Technology Studies
+    - Surveillance and Sovereignty
