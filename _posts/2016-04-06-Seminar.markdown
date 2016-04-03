@@ -2,7 +2,7 @@
 title: Seminar meeting
 text: Monthly meeting of your research group with a presentation by Gabriel Menard on "Digital Policy Regimes: an institutional analysis of digital policy as social policy"
 location: UC248
-link: https://github.com/yourUserName/studyGroup/issues/2
+link: https://github.com/yourUserName/group/issues/2
 date: 2016-04-06
 startTime: '16:00'
 endTime: '17:30'
