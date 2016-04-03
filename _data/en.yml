@@ -4,7 +4,7 @@ events: Events
 contact: Contact
 tellMeMore: Tell Me More
 
-activitiesSubheading: 'And you can, too!'
+activitiesSubheading: 'We are an interdisciplinary network of researchers based at the University of Toronto who study how the rise of the Internet is changing society, politics and the economy and vice versa. Our aim is to bring together coders, scientists and researchers from the social sciences to help each other grapple with these issues.'
 activities:
   - title: Creating Dialogue
     description: 'Talk to researchers from different disciplines to get expert feedback on issues that are relevant to your research, yet outside your specific field of expertise.</p>'
