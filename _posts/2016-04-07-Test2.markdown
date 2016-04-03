@@ -1,9 +1,9 @@
 ---
-title: Test 2
-text: Hello
+title: Seminar meeting
+text: Join us for our monthly meeting to discuss our research. Gabriel Menard will be presenting on "Digital Policy Regimes: an institutional analysis of digital policy as social policy"
 location: UC248
 link: https://github.com/IRN-Toronto/group/issues/3
 date: 2016-04-07
-startTime: '18:00'
-endTime: '19:30'
+startTime: '16:00'
+endTime: '17:30'
 ---
